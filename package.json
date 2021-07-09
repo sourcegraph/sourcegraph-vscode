@@ -11,7 +11,7 @@
     "url": "https://github.com/sourcegraph/sourcegraph-vscode.git"
   },
   "engines": {
-    "vscode": "^1.52.0"
+    "vscode": "^1.999.0"
   },
   "categories": [
     "Other"
@@ -133,7 +133,7 @@
     "@sourcegraph/prettierrc": "^3.0.3",
     "@sourcegraph/tsconfig": "^4.0.1",
     "@types/node": "14.17.5",
-    "@types/vscode": "1.52.0",
+    "@types/vscode": "1.58.0",
     "eslint": "^7.30.0",
     "husky": "^4.3.6",
     "nyc": "^15.1.0",
