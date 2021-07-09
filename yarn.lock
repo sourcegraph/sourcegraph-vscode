@@ -760,10 +760,10 @@
   resolved "https://registry.npmjs.org/@types/retry/-/retry-0.12.0.tgz"
   integrity sha512-wWKOClTTiizcZhXnPY4wikVAwmdYHp8q6DmC+EJUzAMsycb7HB32Kh9RN4+0gExjmPmZSAQjgURXIGATPegAvA==
 
-"@types/vscode@1.52.0":
-  version "1.52.0"
-  resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.52.0.tgz"
-  integrity sha512-Kt3bvWzAvvF/WH9YEcrCICDp0Z7aHhJGhLJ1BxeyNP6yRjonWqWnAIh35/pXAjswAnWOABrYlF7SwXR9+1nnLA==
+"@types/vscode@1.58.0":
+  version "1.58.0"
+  resolved "https://registry.npmjs.org/@types/vscode/-/vscode-1.58.0.tgz"
+  integrity sha512-enznxcBi4uYt20LWal09E0+VKEHZlq9PZawTu/mpWCVCFWWbiyR8HNI1ikBP1Ypqv8b3A/0md3DY1jcx+oQ8kQ==
 
 "@types/yargs-parser@*":
   version "20.2.0"
